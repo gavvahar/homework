@@ -1,1 +1,2 @@
 # homework
+learning git commands
