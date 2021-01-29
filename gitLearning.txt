@@ -3,3 +3,4 @@ Completed add, commit and push
 publishing the changes
 
 git branching
+git clone
